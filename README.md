@@ -5,9 +5,9 @@
 ## 1. Información del entorno
 
 * **Base de datos:** PostgreSQL
-* **Versión de PostgreSQL:** [indicar versión]
+* **Versión de PostgreSQL:** [18]
 * **Herramienta:** pgAdmin
-* **Versión de pgAdmin:** [indicar versión]
+* **Versión de pgAdmin:** [4]
 
 ## 2. Reproducción del trabajo
 
