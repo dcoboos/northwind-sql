@@ -37,7 +37,7 @@ Una vez creada y seleccionada la base de datos:
 
 El siguiente diagrama representa el modelo entidad-relación de la base de datos utilizado en la práctica:
 
-![Diagrama ER](images/diagrama-er.png)
+![Diagrama ER](images/diagramaentidadnorthwind.png)
 
 ## 4. Contenido de la práctica
 
